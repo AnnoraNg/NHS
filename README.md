@@ -27,7 +27,7 @@ Missed GP appointments cost the NHS over £216M annually. At the same time, stak
 ## 📊 Analytical Approach Highlights
 
 - **Data Cleaning & Merging**  
-  Cleaned and combined `appointments_regional.csv`, `national_categories.xlsx`, and ICB reference data to support trend analysis.
+  Cleaned and combined `appointments_regional.csv`, `actual_duration.csv`,`national_categories.xlsx`, and ICB reference data to support trend analysis.
 
 - **Exploratory Data Analysis**  
   Used Python to uncover trends across appointment modes, lead times, and healthcare roles.

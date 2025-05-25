@@ -69,3 +69,4 @@ This project sharpened my ability to:
 
 I approached the problem as both a marketing strategist and data analyst—balancing user behaviour, systemic limitations, and practical recommendations.
 
+Presentation: https://youtu.be/Pgv9tRBLsjE 

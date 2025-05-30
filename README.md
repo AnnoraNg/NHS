@@ -73,7 +73,7 @@ Presentation: https://youtu.be/Pgv9tRBLsjE
 
 ---
 
-✨ **Visual Storytelling for Insights**
+## ✨ Visual Storytelling for Insights
 
 This section showcases visual insights from the NHS dataset. Each slide distills a key finding using charts and supporting commentary.
 

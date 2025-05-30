@@ -70,3 +70,33 @@ This project sharpened my ability to:
 I approached the problem as both a marketing strategist and data analyst—balancing user behaviour, systemic limitations, and practical recommendations.
 
 Presentation: https://youtu.be/Pgv9tRBLsjE 
+
+---
+
+✨ **Visual Storytelling for Insights**
+
+This section showcases visual insights from the NHS dataset. Each slide distills a key finding using charts and supporting commentary.
+
+### 1. GPs Handle the Highest Appointment Demand
+
+<img src="Visual Insights/Insight 1.png" width="800"/>
+
+### 2. Face-to-Face Appointments Still Dominate
+
+<img src="Visual Insights/Insight 2.png" width="800"/>
+
+### 3. Same-Day Appointments Lead
+
+<img src="Visual Insights/Insight 3.png" width="800"/>
+
+### 4. Missed Appointments Increase with Longer Lead Times
+
+<img src="Visual Insights/Insight 4.png" width="800"/>
+
+### 5. Remote Appointments Have the Highest DNA Rates
+
+<img src="Visual Insights/Insight 5.png" width="800"/>
+
+### 6. NHS Utilization – Are Resources Overloaded, or Is There Scheduling Inefficiency?
+
+<img src="Visual Insights/Insight 6.png" width="800"/>
